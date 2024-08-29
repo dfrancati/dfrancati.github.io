@@ -22,7 +22,7 @@ redirect_from:
 
 <!-- From April 2024 to August 2024, I was a Postdoc at George Mason University under the hosted of [Giuseppe Ateniese]() and, from September 2021 to February 2024, I was a Postdoc at Aarhus University ([Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup/)), hosted by [Claudio Orlandi](https://cs.au.dk/~orlandi/). -->
 
-Since April 2024,I have been a Postdoctoral Researcher at George Mason University hosted by
+Since April 2024, I have been a Postdoctoral Researcher at George Mason University hosted by
 [Giuseppe Ateniese](https://ateniese.github.io).
 Prior to this, September 2021 to February 2024, I held a  Postdoctoral position at Aarhus University ([Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup/)) hosted by [Claudio Orlandi](https://cs.au.dk/~orlandi/).
 I earned my Ph.D. in September 2021 from Stevens Institute of Technology, where I conducted my research under the guidance of  [Giuseppe Ateniese](https://ateniese.github.io).
