@@ -6,45 +6,48 @@ sitemap: false
 author_profile: true
 ---
 
-- **Author & Speaker @ CRYPTO24**, Santa Barbara, California, USA.  
+- **Author & Speaker @ CRYPTO24**, Santa Barbara, California, USA.\
 *Title*: Advancing Scalability in Decentralized Storage: A Novel Approach to Proof-of-Replication via Polynomial Evaluation.
 
-- **Talk @ GMU**, Fairfax, Virginia.  
+- **Talk @ WSU Tri-Cities**, Richland, Washington, USA. March 2024.\
+*Title*: Cryptography and A.I.
+
+- **Talk @ GMU**, Fairfax, Virginia. December 2023.\
 *Title*: Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models.
 
-- **Author & Speaker @ EUROCRYPT23**, Lyon, France.  
-*Title*: Multi-key and Multi-input Predicate encryption from Learning with Error.
-
-- **Author & Speaker @ PKC23**, Atlanta, GA, USA.  
+- **Author & Speaker @ PKC23**, Atlanta, GA, USA. May 2023.\
 *Title*: Structure-Preserving Compilers from New Notions of Obfuscations.
 
-- **Author & Speaker @ PKC23**, Atlanta, GA, USA.  
+- **Author & Speaker @ PKC23**, Atlanta, GA, USA. May 2023.\
 *Title*: Verifiable Capacity-bound Functions: A New Primitive from Kolmogorov Complexity (Revisiting space-based security in the adaptive setting).
 
-- **[Talk @ Seminars in Cybersecurity](https://cybersecurity.uniroma1.it/node/222)**, Sapienza University of Rome, Rome, Italy.  
+- **Author & Speaker @ EUROCRYPT23**, Lyon, France. April 2023.\
+*Title*: Multi-key and Multi-input Predicate encryption from Learning with Error.
+
+- **[Talk @ Seminars in Cybersecurity](https://cybersecurity.uniroma1.it/node/222)**, Sapienza University of Rome, Rome, Italy. November 2022.\
 *Title*: Eluding Secure Aggregation in Federated Learning via Model Inconsistency.
 
-- **Talk @ Crypto Day**, Aarhus University, Aarhus, Denmark.  
+- **Talk @ Crypto Day**, Aarhus University, Aarhus, Denmark. July 2022.\
 *Title*: Structure-Preserving Compilers from New Notions of Obfuscations.
 
-- **Talk @ SPRING Lab**, EPFL, Losanna, Svizzera.  
+- **Talk @ SPRING Lab**, EPFL, Losanna, Switzerland. January 2022.\
 *Title*: Anonymous Communication: Matchmaking Encryption.
 
-- **Author & Speaker @ SBC workshop (held in conjunction with ASIACCS21)**, Hong Kong, China.  
+- **Author & Speaker @ SBC workshop (held in conjunction with ASIACCS21)**, Hong Kong, China. June 2021.\
 *Title*: Audita: A Blockchain-based Auditing Framework for Off-chain Storage.
 
-- **[Talk @ Aarhus Crypto Group (Aarhus University)](https://cs.au.dk/research/cryptography-and-security/seminar)**, Aarhus, Denmark.  
+- **[Talk @ Aarhus Crypto Group (Aarhus University)](https://cs.au.dk/research/cryptography-and-security/seminar)**, Aarhus, Denmark. March 2021.\
 *Title*: Kolmogorov complexity and cryptography: New connections and applications to space-demanding functions.
 
-- **[Talk @ IMDEA Software](https://software.imdea.org/events/invited_talks_2021.html)**, Madrid, Spain.  
+- **[Talk @ IMDEA Software](https://software.imdea.org/events/invited_talks_2021.html)**, Madrid, Spain. March 2021.\
 *Title*: Kolmogorov complexity and cryptography: New connections and applications to space-demanding functions.
 
-- **Author & Speaker @ CANS20**, Vienna, Austria.  
+- **Author & Speaker @ CANS20**, Vienna, Austria. December 2020.\
 *Title*: Arcula: A Secure Hierarchical Deterministic Wallet for Multi-asset Blockchains.
 
-- **Author & Speaker @ CRYPTO19**, Santa Barbara, California, US.  
+- **Author & Speaker @ CRYPTO19**, Santa Barbara, California, US. August 2019.\
 *Title*: Match me if you can: matchmaking encryption and its applications.
 
-- **Author & Speaker @ ACNS19**, Bogotà, Colombia.\
+- **Author & Speaker @ ACNS19**, Bogotà, Colombia. June 2019.\
 *Title*: Public immunization against complete subversion without random oracles.
 
