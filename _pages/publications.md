@@ -31,7 +31,7 @@ Advances in Cryptology–CRYPTO 2024: 44th Annual International Cryptology Confe
 Hanlin Zhang, Benjamin L. Edelman <sup>*</sup>, Danilo Francati <sup>*</sup>, Daniele Venturi, Giuseppe Ateniese, and Boaz Barak\
 The 41st International Conference on Machine Learning (ICML 2024), Vienna, Austria, July
 21–24, 2024. Proceedings of Machine Learning Research, Volume 235. ISSN: 2640-3498.\
-[https://proceedings.mlr.press/v235/zhang24o.html](https://proceedings.mlr.press/v235/zhang24o.html)
+[https://proceedings.mlr.press/v235/zhang24o.html](https://proceedings.mlr.press/v235/zhang24o.html)\
 <sup>*</sup>= Equal contribution\
 \
 Conference version of **Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models**\
