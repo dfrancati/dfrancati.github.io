@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-**Address:** Department of Computer Science, Aabogade 34, 8200 Aarhus, Denmark  
-**Office:** Nygaard 280    
+<!-- **Address:** Department of Computer Science, Aabogade 34, 8200 Aarhus, Denmark   -->
+<!-- **Office:** Nygaard 280     -->
 **Email:** danilofrancati at gmail.com\
 <a href="https://scholar.google.com/citations?user=eeuQ0a0AAAAJ&hl=en"><i class="ai ai-google-scholar ai-lg"></i> Scholar</a> - 
 <a href="https://dblp.org/pid/231/4539.html"><i class="ai ai-dblp ai-lg"></i> dblp </a> - 
@@ -18,11 +18,13 @@ redirect_from:
 ---
 
 ### About Me ###
-<!-- Since April 2024, I am a Postdoc at George Mason University. -->
-<!-- Prior to this, I was a Postdoc at Aarhus University -->
-Since September 2021, I am a Postdoc at Aarhus University ([Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup/)), hosted by [Claudio Orlandi](https://cs.au.dk/~orlandi/).
-From August 2017 to September 2021, I was a Ph.D. student at Stevens Institute of Technology under the supervision of [Giuseppe Ateniese](https://ateniese.github.io).
-I got my Bachelor's and Master's degree in Computer Science at Sapienza University of Rome.
+<!-- Starting from September 2024, I am a Lecturer (Assistant Professor) at the Department of Information Security of Royal Holloway University of London. -->
+
+<!-- From April 2024 to August 2024, I was a Postdoc at George Mason University under the hosted of [Giuseppe Ateniese]() and, from September 2021 to February 2024, I was a Postdoc at Aarhus University ([Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup/)), hosted by [Claudio Orlandi](https://cs.au.dk/~orlandi/). -->
+
+From April 2024, I am a Postdoc at George Mason University under the hosted of [Giuseppe Ateniese]() and, from September 2021 to February 2024, I was a Postdoc at Aarhus University ([Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup/)), hosted by [Claudio Orlandi](https://cs.au.dk/~orlandi/).
+On September 2021, I earn my Ph.D. from Stevens Institute of Technology under the supervision of [Giuseppe Ateniese](https://ateniese.github.io).
+<!-- I got my Bachelor's and Master's degree in Computer Science at Sapienza University of Rome. -->
 
 <!-- For a detailed CV, feel free to reach me via email. -->
 

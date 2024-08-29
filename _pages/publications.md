@@ -24,12 +24,14 @@ Advances in Cryptology–ASIACRYPT 2024: International Conference on the Theory 
 
 14. **Advancing Scalability in Decentralized Storage: A Novel Approach to Proof-of-Replication via Polynomial Evaluation**\
 Giuseppe Ateniese, Foteini Baldimtsi, Matteo Campanelli, Danilo Francati, and Ioanna Karantaidou\
-Annual International Cryptology Conference. 2024. To appear.\
-[https://eprint.iacr.org/2023/1569](https://eprint.iacr.org/2023/1569)
+Advances in Cryptology–CRYPTO 2024: 44th Annual International Cryptology Conference, Santa Barbara, CA, USA, August 18–22, 2024. Lecture Notes in Computer Science, vol 14921. Springer, Cham. 2024. ISBN: 978-3-031-68379-4.\
+[https://link.springer.com/chapter/10.1007/978-3-031-68379-4_1](https://link.springer.com/chapter/10.1007/978-3-031-68379-4_1)
 
 13. **Watermarks in the Sand: Impossibility of Strong Watermarking for Language Models**\
 Hanlin Zhang, Benjamin L. Edelman <sup>*</sup>, Danilo Francati <sup>*</sup>, Daniele Venturi, Giuseppe Ateniese, and Boaz Barak\
-International Conference on Machine Learning, 2024. To appear.\
+The 41st International Conference on Machine Learning (ICML 2024), Vienna, Austria, July
+21–24, 2024. Proceedings of Machine Learning Research, Volume 235. ISSN: 2640-3498.\
+[https://proceedings.mlr.press/v235/zhang24o.html](https://proceedings.mlr.press/v235/zhang24o.html)
 <sup>*</sup>= Equal contribution\
 \
 Conference version of **Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models**\
