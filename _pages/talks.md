@@ -5,7 +5,6 @@ permalink: /talks/
 sitemap: false
 author_profile: true
 ---
-\& Information Security Group Seminars
 
 - **Talk @ Royal Holloway University of London - Information Security Group Seminars**, Egham, UK. October 2024.\
 *Title*: Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models.
