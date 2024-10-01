@@ -8,6 +8,9 @@ author_profile: true
 
 ## Program Committees ##
 
+<!-- - **The Web Conference (WWW) 2025**\ -->
+<!-- April 28-May 2 2025, Sydney, Australia -->
+
 - **USENIX 2025**\
 August 13-15 2025, Seattle, Washington, USA
 
@@ -28,6 +31,10 @@ December 14-15 2023, Rome, Italy
 
 - **5th Distributed Ledger Technology Workshop (DLT 2023)**\
 May 25-26 2023, Bologna, Italy
+
+## Editorial Board ##
+
+- IACR Communications in Cryptology
 
 ---
 

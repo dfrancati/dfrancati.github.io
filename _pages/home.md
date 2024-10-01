@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-**Address:** Department of Information Security, Royal Holloway, Egham Hill, Egham TW20 0EX.
-<!-- **Office:** Nygaard 280     -->
+**Address:** Department of Information Security, Royal Holloway, Egham Hill, Egham TW20 0EX.\
+**Office:** Bedford 1-05\
 **Email:** danilo.francati at rhul.ac.uk\
 <a href="https://scholar.google.com/citations?user=eeuQ0a0AAAAJ&hl=en"><i class="ai ai-google-scholar ai-lg"></i> Scholar</a> - 
 <a href="https://dblp.org/pid/231/4539.html"><i class="ai ai-dblp ai-lg"></i> dblp </a> - 

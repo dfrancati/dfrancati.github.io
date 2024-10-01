@@ -121,6 +121,11 @@ Theoretical Computer Science. 2021. DOI: 10.1016/j.tcs.2021.01.002
 [https://www.sciencedirect.com/science/article/abs/pii/S0304397521000190](https://www.sciencedirect.com/science/article/abs/pii/S0304397521000190)
 {: reversed="reversed"}
 
+## Patent
+
+- **Cryptologic blockchain-based off-chain storage verification**\
+Number: US12058234B2.\
+
 ---
 ## Thesis 
 - **Kolmogorov Complexity and Cryptography: New Connections and Applications to Space-Demanding Functions**

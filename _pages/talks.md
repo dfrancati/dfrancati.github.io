@@ -5,6 +5,16 @@ permalink: /talks/
 sitemap: false
 author_profile: true
 ---
+\& Information Security Group Seminars
+
+- **Talk @ Royal Holloway University of London - Information Security Group Seminars**, Egham, UK. October 2024.\
+*Title*: Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models.\
+
+- **Talk @ Royal Holloway University of London - CryptoChats**, Egham, UK. October 2024.\
+*Title*: Breach Extraction Attacks: Exposing and Addressing the Leakage in Second Generation Compromised Credential Checking Services.\
+
+- **Talk @ MongoDB - Cryptography Research Group**, New York, USA. September 2024.\
+*Title*: Breach Extraction Attacks: Exposing and Addressing the Leakage in Second Generation Compromised Credential Checking Services.\
 
 - **Author & Speaker @ CRYPTO24**, Santa Barbara, California, USA.\
 *Title*: Advancing Scalability in Decentralized Storage: A Novel Approach to Proof-of-Replication via Polynomial Evaluation.
