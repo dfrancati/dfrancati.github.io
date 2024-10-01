@@ -15,7 +15,7 @@ author_profile: true
 - **Talk @ MongoDB - Cryptography Research Group**, New York, USA. September 2024.\
 *Title*: Breach Extraction Attacks: Exposing and Addressing the Leakage in Second Generation Compromised Credential Checking Services.
 
-- **Author & Speaker @ CRYPTO24**, Santa Barbara, California, USA.\
+- **Author & Speaker @ CRYPTO24**, Santa Barbara, California, USA. August 2024.\
 *Title*: Advancing Scalability in Decentralized Storage: A Novel Approach to Proof-of-Replication via Polynomial Evaluation.
 
 - **Talk @ WSU Tri-Cities**, Richland, Washington, USA. March 2024.\
