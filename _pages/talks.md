@@ -33,22 +33,22 @@ author_profile: true
 - **Author & Speaker @ EUROCRYPT23**, Lyon, France. April 2023.\
 *Title*: Multi-key and Multi-input Predicate encryption from Learning with Error.
 
-- **[Talk @ Seminars in Cybersecurity](https://cybersecurity.uniroma1.it/node/222)**, Sapienza University of Rome, Rome, Italy. November 2022.\
+- **Talk @ Sapienza University of Rome - [Seminars in Cybersecurity](https://cybersecurity.uniroma1.it/node/222)**, Rome, Italy. November 2022.\
 *Title*: Eluding Secure Aggregation in Federated Learning via Model Inconsistency.
 
-- **Talk @ Crypto Day**, Aarhus University, Aarhus, Denmark. July 2022.\
+- **Talk @ Aarhus University - Crypto Day**, Aarhus, Denmark. July 2022.\
 *Title*: Structure-Preserving Compilers from New Notions of Obfuscations.
 
-- **Talk @ SPRING Lab**, EPFL, Losanna, Switzerland. January 2022.\
+- **Talk @ EPFL - SPRING Lab**, Losanna, Switzerland. January 2022.\
 *Title*: Anonymous Communication: Matchmaking Encryption.
 
 - **Author & Speaker @ SBC workshop (held in conjunction with ASIACCS21)**, Hong Kong, China. June 2021.\
 *Title*: Audita: A Blockchain-based Auditing Framework for Off-chain Storage.
 
-- **[Talk @ Aarhus Crypto Group (Aarhus University)](https://cs.au.dk/research/cryptography-and-security/seminar)**, Aarhus, Denmark. March 2021.\
+- **Talk @ Aarhus University - [Aarhus Crypto Group](https://cs.au.dk/research/cryptography-and-security/seminar)**, Aarhus, Denmark. March 2021.\
 *Title*: Kolmogorov complexity and cryptography: New connections and applications to space-demanding functions.
 
-- **[Talk @ IMDEA Software](https://software.imdea.org/events/invited_talks_2021.html)**, Madrid, Spain. March 2021.\
+- **Talk @ [IMDEA Software](https://software.imdea.org/events/invited_talks_2021.html)**, Madrid, Spain. March 2021.\
 *Title*: Kolmogorov complexity and cryptography: New connections and applications to space-demanding functions.
 
 - **Author & Speaker @ CANS20**, Vienna, Austria. December 2020.\
