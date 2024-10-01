@@ -124,7 +124,7 @@ Theoretical Computer Science. 2021. DOI: 10.1016/j.tcs.2021.01.002
 ## Patent
 
 - **Cryptologic blockchain-based off-chain storage verification**\
-Number: US12058234B2.\
+Number: US12058234B2.
 
 ---
 ## Thesis 

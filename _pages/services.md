@@ -8,8 +8,8 @@ author_profile: true
 
 ## Program Committees ##
 
-<!-- - **The Web Conference (WWW) 2025**\ -->
-<!-- April 28-May 2 2025, Sydney, Australia -->
+- **The Web Conference (WWW) 2025**\
+April 28-May 2 2025, Sydney, Australia
 
 - **USENIX 2025**\
 August 13-15 2025, Seattle, Washington, USA
