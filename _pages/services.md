@@ -8,6 +8,9 @@ author_profile: true
 
 ## Program Committees ##
 
+- **CCS 2025**\
+October 13-17 2025, Taipei, Taiwan
+
 - **The Web Conference (WWW) 2025**\
 April 28-May 2 2025, Sydney, Australia
 
