@@ -17,6 +17,10 @@ The list of authors is sorted alphabetically. Exceptions are *13*, *11*, *6*, *4
 
 ## Conference Proceedings
 
+12. **Registered Matchmaking Encryption**\
+Danilo Francati, Valeria Huang, and Daniele Venturi\
+International Conference on Applied Cryptography and Network Security, 2025. To appear.
+
 15. **Evolving Secret Sharing Made Short**\
 Danilo Francati and Daniele Venturi\
 Advances in Cryptology–ASIACRYPT 2024: International Conference on the Theory and Application of Cryptology and Information Security. To appear.\
