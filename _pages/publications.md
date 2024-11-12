@@ -17,7 +17,7 @@ The list of authors is sorted alphabetically. Exceptions are *13*, *11*, *6*, *4
 
 ## Conference Proceedings
 
-12. **Registered Matchmaking Encryption**\
+16. **Registered Matchmaking Encryption**\
 Danilo Francati, Valeria Huang, and Daniele Venturi\
 International Conference on Applied Cryptography and Network Security, 2025. To appear.
 
