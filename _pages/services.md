@@ -49,14 +49,15 @@ ASIACRYPT 24, SCN 2024, PKC 24, EUROCRYPT 23, Usenix Security 23, ACNS 23, ISIT 
 
 ### Journals ####
 
+- Journal of Cryptology
+- Designs, Codes and Cryptography
 - IEEE Transactions on Information Forensics and Security
 - IEEE Transaction on Dependable and Secure Computing 
+- Theoretical Computer Science 
 - The Computer Journal 
 - Journal of Systems Architecture
-<!-- - IET Information Security -->
 - Theory of Computing Systems
-- Theoretical Computer Science 
-- Designs, Codes and Cryptography
+
 
 ---
 
