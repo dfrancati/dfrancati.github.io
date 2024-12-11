@@ -23,8 +23,8 @@ International Conference on Applied Cryptography and Network Security, 2025. To 
 
 15. **Evolving Secret Sharing Made Short**\
 Danilo Francati and Daniele Venturi\
-Advances in Cryptology–ASIACRYPT 2024: International Conference on the Theory and Application of Cryptology and Information Security. To appear.\
-[https://eprint.iacr.org/2023/1534](https://eprint.iacr.org/2023/1534)
+Advances in Cryptology–ASIACRYPT 2024: International Conference on the Theory and Application of Cryptology and Information Security. Proceedings (pp. 66-99). Springer Nature Singapore, 2024. ISBN:978-981-96-0941-3.\
+[https://link.springer.com/chapter/10.1007/978-981-96-0941-3_3](https://link.springer.com/chapter/10.1007/978-981-96-0941-3_3)
 
 14. **Advancing Scalability in Decentralized Storage: A Novel Approach to Proof-of-Replication via Polynomial Evaluation**\
 Giuseppe Ateniese, Foteini Baldimtsi, Matteo Campanelli, Danilo Francati, and Ioanna Karantaidou\
