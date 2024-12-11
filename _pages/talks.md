@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 - **Author & Speaker @ ASIACRYPT24**, Kolkata, India. December 2024.\
-*Title*: Evolving Secret made Short.
+*Title*: Evolving Secret Sharing Made Short.
 
 - **Talk @ Royal Holloway University of London - Information Security Group Seminars**, Egham, UK. October 2024.\
 *Title*: Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models.
