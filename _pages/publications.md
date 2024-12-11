@@ -23,7 +23,7 @@ International Conference on Applied Cryptography and Network Security, 2025. To 
 
 15. **Evolving Secret Sharing Made Short**\
 Danilo Francati and Daniele Venturi\
-Advances in Cryptology–ASIACRYPT 2024: International Conference on the Theory and Application of Cryptology and Information Security. Proceedings (pp. 66-99). Springer Nature Singapore, 2024. ISBN:978-981-96-0941-3.\
+Advances in Cryptology–ASIACRYPT 2024: International Conference on the Theory and Application of Cryptology and Information Security, Kolkata, India, December 9-13, 2024. Proceedings (pp. 66-99), Springer Nature Singapore, 2024. ISBN:978-981-96-0941-3.\
 [https://link.springer.com/chapter/10.1007/978-981-96-0941-3_3](https://link.springer.com/chapter/10.1007/978-981-96-0941-3_3)
 
 14. **Advancing Scalability in Decentralized Storage: A Novel Approach to Proof-of-Replication via Polynomial Evaluation**\
@@ -56,7 +56,8 @@ Dario Pasquini <sup>*</sup>, Danilo Francati <sup>*</sup>, Giuseppe Ateniese, an
 
 10. **Registered (Inner-Product) Functional Encryption**\
 Danilo Francati, Daniele Friolo, Monosij Maitra, Giulio Malavolta, Ahmadreza Rahimi, and Daniele Venturi\
-Advances in Cryptology–ASIACRYPT 2023: International Conference on the Theory and Application of Cryptology and Information Security, Proceedings (pp. 99-133). Springer Nature Singapore, 2024, ISBN:978-981-99-8733-7\
+Advances in Cryptology–ASIACRYPT 2023: International Conference on the Theory and Application of Cryptology and Information Security, Guangzhou, China, December 4-8, 2023. Proceedings (pp. 99-133), Springer Nature Singapore, 2023.
+ISBN: 978-981-99-8733-7.\
 [https://link.springer.com/chapter/10.1007/978-981-99-8733-7_4](https://link.springer.com/chapter/10.1007/978-981-99-8733-7_4)
 
 9. **Multi-key and Multi-input Predicate encryption from Learning with Errors**  
