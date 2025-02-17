@@ -11,7 +11,11 @@ The list of authors is sorted alphabetically. Exceptions are *13*, *11*, *6*, *4
 
 ---
 
-<!-- ## Preprints -->
+## Preprints
+
+a. **On the Power of Polynomial Preprocessing: Proving Computations in Sublinear Time, and More**\
+Matteo Campanelli, Mario Carrillo, Ignacio Cascudo, Dario Fiore, Danilo Francati, and Rosario Gennaro\
+[https://eprint.iacr.org/2025/238](https://eprint.iacr.org/2025/238)
 
 ---
 
