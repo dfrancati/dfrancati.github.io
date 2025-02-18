@@ -6,6 +6,9 @@ sitemap: false
 author_profile: true
 ---
 
+- **Talk @ UK Crypto Day - King's College London**, London, UK. February 2025.\
+*Title*: Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models.
+
 - **Author & Speaker @ ASIACRYPT24**, Kolkata, India. December 2024.\
 *Title*: Evolving Secret Sharing Made Short.
 
