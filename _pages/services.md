@@ -23,7 +23,7 @@ author_profile: true
 
 ## Reviewer ##
 
-### Conferences (sub-reviewer) ####
+### Conferences (external reviewer) ####
 
 - CRYPTO 2019, 2022, 2025
 - EUROCRYPT 2023
