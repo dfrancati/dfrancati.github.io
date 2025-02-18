@@ -8,32 +8,12 @@ author_profile: true
 
 ## Program Committees ##
 
-- **CCS 2025**\
-October 13-17 2025, Taipei, Taiwan
-
-- **The Web Conference (WWW) 2025**\
-April 28-May 2 2025, Sydney, Australia
-
-- **USENIX 2025**\
-August 13-15 2025, Seattle, Washington, USA
-
-- **ACNS 2025**\
-June 23-26 2025, Munich, Germany
-
-- **CCS 2024**\
-October 14-18 2024, Salt Lake City, USA
-
-- **CIFRIS 2024**\
-September 25-27 2024, Rome, Italy
-
-- **6th Distributed Ledger Technology Workshop (DLT 2024)**\
-May 14-15 2024, Turin, Italy
-
-- **CIFRIS 2023**\
-December 14-15 2023, Rome, Italy
-
-- **5th Distributed Ledger Technology Workshop (DLT 2023)**\
-May 25-26 2023, Bologna, Italy
+- CCS 2024, 2025
+- USENIX 2025
+- WWW 2025
+- ACNS 2025
+- DLT 2023, 2024, 2025
+- CIFRIS 2023, 2024
 
 ## Editorial Board ##
 
@@ -45,7 +25,17 @@ May 25-26 2023, Bologna, Italy
 
 ### Conferences (sub-reviewer) ####
 
-ASIACRYPT 24, SCN 2024, PKC 24, EUROCRYPT 23, Usenix Security 23, ACNS 23, ISIT 23, CT-RSA 22, CRYPTO 22, CCS 22, TCC 22, CANS 21, PKC 20, CRYPTO 19, CANS 18
+- CRYPTO 2025, 2022, 2019
+- EUROCRYPT 23
+- CCS 2022 
+- USENIX 2023
+- ASIACRYPT 2024
+- TCC 2022
+- PKC 2024, 2020
+- SCN 2024
+- ACNS 2023
+- ISIT 2023
+- CANS 2021, 2018
 
 ### Journals ####
 
@@ -58,12 +48,11 @@ ASIACRYPT 24, SCN 2024, PKC 24, EUROCRYPT 23, Usenix Security 23, ACNS 23, ISIT 
 - Journal of Systems Architecture
 - Theory of Computing Systems
 
-
 ---
 
-## Other ##
+<!-- ## Other ##
 
 - **Session Chair @ TPMPC 23**, Aarhus University, Aarhus, Denmark
 
 - **Session Chair @ CCS 22**, Los Angeles, CA  
-*Track*: Advanced Public Key Primitives
+*Track*: Advanced Public Key Primitives -->
