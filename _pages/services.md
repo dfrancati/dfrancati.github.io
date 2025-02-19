@@ -15,6 +15,8 @@ author_profile: true
 - DLT 2023, 2024, 2025
 - CIFRIS 2023, 2024
 
+---
+
 ## Editorial Board ##
 
 - IACR Communications in Cryptology
@@ -36,6 +38,8 @@ author_profile: true
 - ACNS 2023
 - ISIT 2023
 - CANS 2018, 2021
+
+---
 
 ### Journals ####
 
