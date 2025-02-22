@@ -39,12 +39,11 @@ Advances in Cryptology–CRYPTO 2024: 44th Annual International Cryptology Confe
 Hanlin Zhang, Benjamin L. Edelman <sup>*</sup>, Danilo Francati <sup>*</sup>, Daniele Venturi, Giuseppe Ateniese, and Boaz Barak\
 The 41st International Conference on Machine Learning (ICML 2024), Vienna, Austria, July
 21–24, 2024. Proceedings of Machine Learning Research, Volume 235. ISSN: 2640-3498.\
-[Link](https://proceedings.mlr.press/v235/zhang24o.html)\
 <sup>*</sup>= Equal contribution\
+[Link](https://proceedings.mlr.press/v235/zhang24o.html)\
 \
 Conference version of **Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models**\
 [Link](https://arxiv.org/abs/2311.04378)
-
 
 12. **Non-malleable Fuzzy Extractors**\
 Danilo Francati and Daniele Venturi\
@@ -54,9 +53,8 @@ International Conference on Applied Cryptography and Network Security, pp. 135-1
 11. **Breach Extraction Attacks: Exposing and Addressing the Leakage in Second Generation Compromised Credential Checking Services**\
 Dario Pasquini <sup>*</sup>, Danilo Francati <sup>*</sup>, Giuseppe Ateniese, and Evgenios M. Kornaropoulos\
 2024 IEEE Symposium on Security and Privacy (SP), San Francisco, CA, USA, 2024 pp. 114-114.\
-[Link](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a114/1Ub23nm5zGM)\
-<sup>*</sup>= Equal contribution
-
+<sup>*</sup>= Equal contribution\
+[Link](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a114/1Ub23nm5zGM)
 
 10. **Registered (Inner-Product) Functional Encryption**\
 Danilo Francati, Daniele Friolo, Monosij Maitra, Giulio Malavolta, Ahmadreza Rahimi, and Daniele Venturi\
