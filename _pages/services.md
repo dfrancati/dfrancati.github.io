@@ -13,13 +13,14 @@ author_profile: true
 - WWW 2025
 - ACNS 2025
 - DLT 2023, 2024, 2025
+- FCiR 2025
 - CIFRIS 2023, 2024
 
 ---
 
 ## Editorial Board ##
 
-- IACR Communications in Cryptology
+- IACR Communications in Cryptology, Second Volume, 2025
 
 ---
 
