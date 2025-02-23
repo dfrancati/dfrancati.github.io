@@ -6,7 +6,7 @@ sitemap: false
 author_profile: true
 ---
 
-You can also find my articles on [Link](https://dblp.org/pid/231/4539.html).\
+You can also find my articles on [DBLP](https://dblp.org/pid/231/4539.html) and [Google Scholar](https://scholar.google.com/citations?user=eeuQ0a0AAAAJ&hl=en).\
 The list of authors is sorted alphabetically. Exceptions are *13*, *11*, *6*, *4*, and *3* (sorted by contribution).
 
 ---
