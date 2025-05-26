@@ -112,7 +112,7 @@ Annual International Cryptology Conference. Springer, Cham. 2019, pp. 701–731,
 
 ## Journals
 
-4. **Evolving Secret Sharing Revisited: Computational Security and Succinctness**
+4. **Evolving Secret Sharing Revisited: Computational Security and Succinctness**\
 Danilo Francati and Daniele Venturi\
 Designs, Codes, and Cryptography (2025).\
 To Appear.
