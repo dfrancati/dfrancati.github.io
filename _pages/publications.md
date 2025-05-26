@@ -112,6 +112,11 @@ Annual International Cryptology Conference. Springer, Cham. 2019, pp. 701–731,
 
 ## Journals
 
+4. **Evolving Secret Sharing Revisited: Computational Security and Succinctness**
+Danilo Francati and Daniele Venturi\
+Designs, Codes, and Cryptography (2025).\
+To Appear.
+
 3. **Multi-key and Multi-input Predicate encryption (for Conjunctions) from Learning with Errors**  
 Danilo Francati, Daniele Friolo, Giulio Malavolta, and Daniele Venturi\
 Journal of Cryptology, 37.24, (2024). DOI: 10.1007/s00145-024-09504-7\
