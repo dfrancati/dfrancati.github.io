@@ -23,7 +23,8 @@ Matteo Campanelli, Mario Carrillo, Ignacio Cascudo, Dario Fiore, Danilo Francati
 
 16. **Registered Matchmaking Encryption**\
 Danilo Francati, Valeria Huang, and Daniele Venturi\
-International Conference on Applied Cryptography and Network Security, 2025. To appear.
+International Conference on Applied Cryptography and Network Security, pp. 3-32. Springer, Cham, 2025, ISBN: 978-3-031-95761-1.\
+[Link](https://link.springer.com/chapter/10.1007/978-3-031-95761-1_1)
 
 15. **Evolving Secret Sharing Made Short**\
 Danilo Francati and Daniele Venturi\
@@ -114,8 +115,8 @@ Annual International Cryptology Conference. Springer, Cham. 2019, pp. 701–731,
 
 4. **Evolving Secret Sharing Revisited: Computational Security and Succinctness**\
 Danilo Francati and Daniele Venturi\
-Designs, Codes, and Cryptography (2025).\
-To Appear.
+Designs, Codes, and Cryptography (2025). DOI: 10.1007/s10623-025-01658-0\
+[Link](https://link.springer.com/article/10.1007/s10623-025-01658-0)
 
 3. **Multi-key and Multi-input Predicate encryption (for Conjunctions) from Learning with Errors**  
 Danilo Francati, Daniele Friolo, Giulio Malavolta, and Daniele Venturi\
