@@ -21,6 +21,12 @@ Matteo Campanelli, Mario Carrillo, Ignacio Cascudo, Dario Fiore, Danilo Francati
 
 ## Conference Proceedings
 
+17. **Taming Adaptive Security and New Access Structures in Evolving Secret Sharing**\
+Danilo Francati, Sara Giammusso, and Daniele Venturi\
+Advances in Cryptology–ASIACRYPT 2025: International Conference on the Theory and Application of Cryptology and Information Security.\
+To Appear.
+
+
 16. **Registered Matchmaking Encryption**\
 Danilo Francati, Valeria Huang, and Daniele Venturi\
 International Conference on Applied Cryptography and Network Security, pp. 3-32. Springer, Cham, 2025, ISBN: 978-3-031-95761-1.\
