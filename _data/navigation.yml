@@ -11,8 +11,8 @@ main:
   - title: "Service"
     url: /services/
 
-  # - title: "Teaching"
-    # url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
   # - title: "CV"
     # url: /files/cvmodern.pdf
