@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Informatica Generale"
 permalink: /teaching/informatica-generale
 sitemap: false
 author_profile: true

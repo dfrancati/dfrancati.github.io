@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "CSaP"
 permalink: /teaching/csap
 sitemap: false
 author_profile: false
@@ -8,7 +8,7 @@ author_profile: false
 
 # CSaP - Computer Systems and Programming (2025 - 2026)
 
-**Teacher:** Danilo Francati – [francati@di.uniroma1.it](mailto:francati@di.uniroma1.it)
+**Teacher:** Danilo Francati – francati [AT] di.uniroma1.it
 
 ---
 

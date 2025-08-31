@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Teaching"
 permalink: /teaching/
 sitemap: false
 author_profile: true
