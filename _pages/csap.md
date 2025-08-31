@@ -3,7 +3,7 @@ layout: archive
 title: ""
 permalink: /teaching/csap
 sitemap: false
-author_profile: true
+author_profile: false
 ---
 
 # CSaP - Computer Systems and Programming (2025 - 2026)
@@ -54,7 +54,7 @@ Students can always use email and/or schedule a webmeeting.
 
 A group has been created in order to allow communication, sharing of information, etc.  
 
-The name of the Google Classroom is **CSAP** ([link](https://groups.google.com/a/uniroma1.it/d/forum/TODO))  
+The name of the Google Classroom is **CSAP** ([link](TODO))  
 
 Students are invited to join it, in order to receive last minute communications and to get access to the folder where code and slides will be posted.
 
