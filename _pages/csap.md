@@ -139,7 +139,8 @@ Of course mileage may vary, depending on time available, etc.
 - Recap of the C programming language: variables, constants, operators, expressions, control instructions, functions, pointers, arrays, structures & unions, preprocessor directives  
 - Programming environment: compiler, make & makefiles, gdb debugger  
 - Operating system basics (Linux): processes, filesystem, inter-process communication primitives (signals, pipes, semaphores, shared memory)  
-- Network programming: sockets, raw sockets, sniffers  
+<!-- - Network programming: sockets, raw sockets, sniffers   -->
+- Network programming: sockets
 
 ---
 
