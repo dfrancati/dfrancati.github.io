@@ -102,7 +102,7 @@ Working natively on other devices, such as Mac or Windows laptop, while possible
 
 ---
 
-## Project
+## Project (Final Examination)
 
 The project is an individual work item, which must include appropriate documentation (Use cases, functional and non functional requirements, etc.).  
 
