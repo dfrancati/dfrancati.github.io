@@ -9,7 +9,7 @@ author_profile: true
 
 ## Academic Year 2025-2026
 
-- [Computer System and Programming]({{ base_path }}/teaching/casp) -- Sapienza University of Rome
+- [Computer System and Programming]({{ base_path }}/teaching/csap) -- Sapienza University of Rome
 
 <!-- - [Informatica Generale]({{ base_path }}/teaching/informatica-generale) -- Sapienza University of Rome -->
 <!-- - Informatica Generale -- Sapienza University of Rome -->
