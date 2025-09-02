@@ -10,9 +10,9 @@ author_profile: false
 
 **Teacher:** Danilo Francati – francati [AT] di.uniroma1.it
 
----
+<!-- --- -->
 
-## NEWS
+<!-- ## NEWS -->
 
 
 <!-- This is the [project](#) for this year (2025). -->
@@ -54,9 +54,9 @@ Students can always use email and/or schedule a webmeeting.
 
 A group has been created in order to allow communication, sharing of information, etc.  
 
-The name of the Google Classroom is **CSAP** ([link](TODO))  
+The name of the Google Classroom is [**Computer Systems and Programming**](https://classroom.google.com/c/MjM0ODAxNDE1NTRa?cjc=bamtbmxb) 
 
-Students are invited to join it, in order to receive last minute communications and to get access to the folder where code and slides will be posted.
+Students are invited to join in order to receive last-minute communications and access the folder where code and slides will be posted. The material can be accessed only with the student institutional email **lastname.studentID@studenti.uniroma1.it**.
 
 ---
 
@@ -96,26 +96,9 @@ In practice, you will need (at least):
 
 Each student should have access to a Linux system (a VM is ok), including the compiler, development tools (make, debugger, etc.) and man pages.  
 Ubuntu 22.04 (or later) is the recommended platform.  
+To install Ubuntu using a VM see this [link](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview) (virtualbox) or this [link](https://docs.getutm.app/guides/ubuntu/) (UTM. Recommended for MACs).
 
 Working natively on other devices, such as Mac or Windows laptop, while possible, is not recommended due to subtle differences in the compiler suite and OS interface.  
-
----
-
-## Exam
-
-TODO
-
-<!-- An evaluation will be carried out, during the course, through **3 midterms**: short programs developed by the students in the classroom using their own laptop.  -->
-
-<!-- At the end of the course, the students will be able to accept the result obtained with these tests and verbalize it, perhaps after an oral discussion.   -->
-
-<!-- As an alternative, or if the result of the tests is not considered acceptable, a complete individual project, written in C, could be developed on a topic pertaining the arguments seen during the course.   -->
-
-<!-- Thus, there are two options:   -->
-<!-- 1. Pass the midterms (and, eventually, an oral discussion)   -->
-<!-- 2. Complete the project (as described in the dedicated section). The project (sources and documentation) must be sent by email a few days (5-7) before the date of the exam.   -->
-
-<!-- Write/contact me for any doubts, information, etc.   -->
 
 ---
 
@@ -124,7 +107,7 @@ TODO
 The project is an individual work item, which must include appropriate documentation (Use cases, functional and non functional requirements, etc.).  
 
 Each academic year will have a different project.  
-As an example, this was the [Project for AA2021-2022](TODO).  
+As an example, this was the [Project for AA2021-2022](https://twiki.di.uniroma1.it/pub/CSaP/WebHome/Project_for_AA2021-2022.pdf).  
 
 The code and the docs for the project must be sent by email a few days (3-5) before the session where it will be reviewed/discussed.  
 
@@ -134,14 +117,17 @@ However, discussions between students, exchanges of ideas, use of mailing lists,
 
 The project consists of a C language program that satisfies a set of specified requirements, using the library calls that are part of the course program. The use of other calls is generally not accepted. If in doubt, ask the teacher.  
 
-The project code must correctly compile and execute in the required software environment (compiler version, kernel version, clib version).  
+The project code must correctly compile and execute in the required software environment (compiler version, kernel version, clib version).
+
+The final grade will be based on the quality of the code, the completeness and clarity of the documentation, and the oral discussion of the project.
 
 ### Evaluation criteria
-- **Prerequisite**: the code must correctly compile, link and start on Ubuntu 22.04 (or later).  
+- **Prerequisite**: the code must correctly compile, link and start on Ubuntu 24.04 (or later).  
 - **Correctness of the code**: main evaluation element that determines (alone!) the passing of the exam.  
 - **Error handling**: it is an integral part of the correctness of the code!  
-- **Modularity and readability of the code**: division into functions, comments, function and variable names (sic!), etc.  
+- **Modularity and readability of the code**: division into functions, comments, function and variable names, etc.  
 - **Quality of documentation**: user manual, software architecture, README file, project report.  
+- **Oral discussion**: verification of the student's understanding of the project, the design choices made, and the ability to explain and justify the implementation. The oral discussion may also include general questions about the course topics related to the project.  
 
 ---
 
@@ -151,7 +137,7 @@ These are the topics that are planned to be covered during the course.
 Of course mileage may vary, depending on time available, etc.  
 
 - Recap of the C programming language: variables, constants, operators, expressions, control instructions, functions, pointers, arrays, structures & unions, preprocessor directives  
-<!-- - Programming environment: compiler, make & makefiles, gdb debugger   -->
+- Programming environment: compiler, make & makefiles, gdb debugger  
 - Operating system basics (Linux): processes, filesystem, inter-process communication primitives (signals, pipes, semaphores, shared memory)  
 - Network programming: sockets, raw sockets, sniffers  
 
