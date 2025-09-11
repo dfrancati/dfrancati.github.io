@@ -17,6 +17,10 @@ a. **On the Power of Polynomial Preprocessing: Proving Computations in Sublinear
 Matteo Campanelli, Mario Carrillo, Ignacio Cascudo, Dario Fiore, Danilo Francati, and Rosario Gennaro\
 [Link](https://eprint.iacr.org/2025/238)
 
+b. **The Coding Limit of Robust Watermarking for Generative Models**\
+Danilo Francati, Yevin Nikhel Goonatilake, Shubham Pawar, Daniele Venturi, and Giuseppe Ateniese\
+[Link](https://eprint.iacr.org/2025/1620)
+
 ---
 
 ## Conference Proceedings

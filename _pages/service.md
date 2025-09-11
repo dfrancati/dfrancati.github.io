@@ -8,7 +8,7 @@ author_profile: true
 
 ## Program Committees ##
 
-- CCS 2024, 2025
+- CCS 2024, 2025, 2026
 - USENIX 2025, 2026
 - WWW 2025
 - ACNS 2025
