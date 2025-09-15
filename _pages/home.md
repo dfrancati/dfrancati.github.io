@@ -26,7 +26,7 @@ I earned my Ph.D. in Computer Science in September 2021 from Stevens Institute o
 
 ### Research Interests ###
 My research interests are theoretical and applied cryptography with a focus on advanced public-key primitives and their applications.
-I am also interested in blockchain and privacy-preserving machine learning.
+I am also interested in watermarking schemes for generative models, privacy-preserving machine learning, and blockchain-based storage systems.
 
 <!-- ### Grants ### -->
 
