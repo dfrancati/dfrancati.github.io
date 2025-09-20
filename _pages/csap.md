@@ -146,8 +146,8 @@ Of course mileage may vary, depending on time available, etc.
 
 ## Recommended Readings
 
-- Daniel P. Bovet, Marco Cesati: *Understanding the Linux Kernel*  
+- Daniel P. Bovet, Marco Cesati: *Understanding the Linux Kernel* (3rd Ed.)
 - Brian Kernighan, Dennis Ritchie: *The C Programming Language* (2nd Ed.)  
-- Richard Stevens: *Advanced Programming in the UNIX Environment*  
+- Richard Stevens: *Advanced Programming in the UNIX Environment*  (3rd Ed.)
 - Brian W. Kernighan, Rob Pike: *The Practice of Programming*  
 - M. Mitchell, J. Oldham, A. Samuel: *Advanced Linux Programming*  
