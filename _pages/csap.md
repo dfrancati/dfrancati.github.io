@@ -56,7 +56,7 @@ A group has been created in order to allow communication, sharing of information
 
 <!-- The name of the Google Classroom is [**Computer Systems and Programming**](https://classroom.google.com/c/MjM0ODAxNDE1NTRa?cjc=bamtbmxb)  -->
 
-Students are invited to send me an email including their **name, surname, student ID (matricola), and email** address in order to
+Students are invited to send me an email including their **name, surname, student ID (matricola), and institutional email** address in order to
 be added to the group. The group will be used for last-minute communications and for sharing course materials such as code and slides.
 Students should use their institutional email address (**lastname.studentID@studenti.uniroma1.it**) to get added to the group.
 
@@ -97,7 +97,7 @@ In practice, you will need (at least):
 - understanding of computer network protocols (preferably TCP/IP)  
 
 Each student should have access to a Linux system (a VM is ok), including the compiler, development tools (make, debugger, etc.) and man pages.  
-Ubuntu 22.04 (or later) is the recommended platform.  
+Ubuntu 24.04 (or later) is the recommended platform.  
 To install Ubuntu using a VM see this [link](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview) (virtualbox) or this [link](https://docs.getutm.app/guides/ubuntu/) (UTM. Recommended for MACs).
 
 Working natively on other devices, such as Mac or Windows laptop, while possible, is not recommended due to subtle differences in the compiler suite and OS interface.  
@@ -111,7 +111,7 @@ The project is an individual work item, which must include appropriate documenta
 Each academic year will have a different project.  
 As an example, this was the [Project for AA2021-2022](https://twiki.di.uniroma1.it/pub/CSaP/WebHome/Project_for_AA2021-2022.pdf).  
 
-The code and the docs for the project must be sent by email a few days (3-5) before the session where it will be reviewed/discussed.  
+The code and the docs for the project must be sent by email a approximately week before the session where it will be reviewed/discussed.  
 
 The project must constitute an original creation, therefore it is not possible to share parts of the code or copy contents from other sources.  
 
