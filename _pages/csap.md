@@ -125,7 +125,7 @@ The final grade will be based on the quality of the code, the completeness and c
 
 ### Evaluation criteria
 - **Prerequisite**: the code must correctly compile, link and start on Ubuntu 24.04 (or later).  
-- **Correctness of the code**: main evaluation element that determines (alone!) the passing of the exam.  
+- **Correctness of the code**: main evaluation element that determine the passing of the exam.  
 - **Error handling**: it is an integral part of the correctness of the code!  
 - **Modularity and readability of the code**: division into functions, comments, function and variable names, etc.  
 - **Quality of documentation**: user manual, software architecture, README file, project report.  
