@@ -36,7 +36,7 @@ author_profile: false
 
 ### Class Timetable
 - Monday h.08:30/10:00 – Aula 201, RM112, Edificio D, Viale Regina Elena 295.
-- Tuesday h.13:00/16:00 – Aula Magna, RM111, Viale Regina Elena 295.
+- Wednesday h.13:00/16:00 – Aula Magna, RM111, Viale Regina Elena 295.
 
 Lectures will be delivered in presence.
 
