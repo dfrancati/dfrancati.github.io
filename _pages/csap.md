@@ -8,7 +8,7 @@ author_profile: false
 
 # Computer Systems and Programming (2025 - 2026)
 
-**Teacher:** Danilo Francati – francati [AT] di.uniroma1.it
+**Professor:** Danilo Francati – francati [AT] di.uniroma1.it
 
 <!-- --- -->
 
