@@ -54,8 +54,6 @@ Students can always use email and/or schedule a webmeeting.
 
 A group has been created in order to allow communication, sharing of information, etc.  
 
-<!-- The name of the Google Classroom is [**Computer Systems and Programming**](https://classroom.google.com/c/MjM0ODAxNDE1NTRa?cjc=bamtbmxb)  -->
-
 Students are invited to send me an email including their **name, surname, student ID (matricola), and institutional email** address in order to
 be added to the group. The group will be used for last-minute communications and for sharing course materials such as code and slides.
 Students should use their institutional email address (**lastname.studentID@studenti.uniroma1.it**) to get added to the group.
