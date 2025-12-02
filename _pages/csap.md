@@ -8,28 +8,18 @@ author_profile: false
 
 # Computer Systems and Programming (2025 - 2026)
 
-**Professor:** Danilo Francati – francati [AT] di.uniroma1.it
+<!-- **Professor:** Danilo Francati – francati [AT] di.uniroma1.it -->
 
 <!-- --- -->
 
-<!-- ## NEWS -->
+## NEWS
 
+- **Dec. 2nd will be the last class for AA2025-2026.**
 
-<!-- This is the [project](#) for this year (2025). -->
+- The project for the I and II exam sessions (January–February) has been published. Please refer to the information posted in the Google Group.
 
-<!-- Send me code and documentation at least three days before the exam’s date. -->
+- The deadline for submitting the code, along with additional information about the dates for the oral exam, will be published in the Google Group. Please refer only to the information posted there to stay updated on any changes.
 
-<!-- Contact me (email) should you need any clarifications. -->
-
-<!-- These are the result for the [third midterm](#), and the [proposed grades](#). -->
-
-<!-- Students can just accept them (send me an email) or, to improve them, register for an oral test at one of the next exam sessions.   -->
-
-<!-- **N.B.:** The grades in ORANGE boxes can be confirmed only **after an oral exam**. -->
-
-<!-- --- -->
-
-<!-- **Today, Dec. 16th, was the last session for AA2024-2025.** -->
 
 
 ---
