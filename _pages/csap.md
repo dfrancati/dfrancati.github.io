@@ -8,10 +8,6 @@ author_profile: false
 
 # Computer Systems and Programming (2025 - 2026)
 
-<!-- **Professor:** Danilo Francati – francati [AT] di.uniroma1.it -->
-
-<!-- --- -->
-
 ## NEWS
 
 - **Dec. 2nd will be the last class for AA2025-2026.**
@@ -20,11 +16,9 @@ author_profile: false
 
 - The deadline for submitting the code, along with additional information about the dates for the oral exam, will be published in the Google Group. Please refer only to the information posted there to stay updated on any changes.
 
-
-
 ---
 
-### Class Timetable
+### Class Timetable AA 2025-2026
 - Monday h.08:00/10:00 – Aula 201, RM112, Edificio D, Viale Regina Elena 295.
 - Wednesday h.13:00/16:00 – Aula Magna, RM111, Viale Regina Elena 295.
 
@@ -35,7 +29,6 @@ Lectures will be delivered in presence.
 ## Office Hours
 
 By appointment.
-
 Students can always use email and/or schedule a webmeeting.
 
 ---
@@ -44,8 +37,7 @@ Students can always use email and/or schedule a webmeeting.
 
 A group has been created in order to allow communication, sharing of information, etc.  
 
-Students are invited to send me an email including their **name, surname, student ID (matricola), and institutional email** address in order to
-be added to the group. The group will be used for last-minute communications and for sharing course materials such as code and slides.
+Students **must** send an email including their **name, surname, student ID (matricola), and institutional email address** in order to be added to the group. The group will be used for last-minute communications and for sharing course materials and instructions regarding the project and the exam.
 Students should use their institutional email address (**lastname.studentID@studenti.uniroma1.it**) to get added to the group.
 
 ---
@@ -73,19 +65,19 @@ At the end, the students are provided by operating system and integrate them cor
 
 ## Prerequisites
 
-Formal pre-requisites for the course are the same as the prerequisites for enrollment to the Master in Cybersecurity  
-(see [requirements](https://cybersecurity.uniroma1.it/admission#requirements)).  
+<!-- Formal pre-requisites for the course are the same as the prerequisites for enrollment to the Master in Cybersecurity   -->
+<!-- (see [requirements](https://cybersecurity.uniroma1.it/admission#requirements)).   -->
 
-Our MSc takes for granted the subjects and contents covered in the Italian Bachelor's Degree in Computer Science or Computer Engineering.  
-Our MSc offers an in-depth technical study aimed at training experts in Cybersecurity. Therefore, a high technological core is essential, regardless of the orientation chosen within your Study Plan.
+<!-- Our MSc takes for granted the subjects and contents covered in the Italian Bachelor's Degree in Computer Science or Computer Engineering.   -->
+<!-- Our MSc offers an in-depth technical study aimed at training experts in Cybersecurity. Therefore, a high technological core is essential, regardless of the orientation chosen within your Study Plan. -->
 
-In practice, you will need (at least):  
-- mastery of one (preferably more) programming language(s)  
-- understanding of computer architecture and operating system principles  
-- understanding of computer network protocols (preferably TCP/IP)  
+To be able to follow the course, you will need at least:
+- mastery of one (preferably more) programming language
+- an understanding of computer architecture and operating system principles
+- an understanding of computer network protocols (preferably TCP/IP)
 
-Each student should have access to a Linux system (a VM is ok), including the compiler, development tools (make, debugger, etc.) and man pages.  
-Ubuntu 24.04 (or later) is the recommended platform.  
+Each student should have access to a Linux system (a VM is ok).  
+Ubuntu 24.04 (or later) is the recommended platform that is the OS on which the project will be tested.  
 To install Ubuntu using a VM see this [link](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview) (virtualbox) or this [link](https://docs.getutm.app/guides/ubuntu/) (UTM. Recommended for MACs).
 
 Working natively on other devices, such as Mac or Windows laptop, while possible, is not recommended due to subtle differences in the compiler suite and OS interface.  
@@ -94,12 +86,9 @@ Working natively on other devices, such as Mac or Windows laptop, while possible
 
 ## Project (Final Examination)
 
-The project is an individual work item, which must include appropriate documentation (Use cases, functional and non functional requirements, etc.).  
+The project can be done in two persons, which must include appropriate documentation (Use cases, functional and non functional requirements, etc.).  
 
-Each academic year will have a different project.  
-As an example, this was the [Project for AA2021-2022](https://twiki.di.uniroma1.it/pub/CSaP/WebHome/Project_for_AA2021-2022.pdf).  
-
-The code and the docs for the project must be sent by email a approximately week before the session where it will be reviewed/discussed.  
+Each exam session may have a different project. All detailed specifications and instructions for the submission (deadline, date of the oral exam) will be posted on the Google Group. It is the student's responsibility to request access to the group and to check this information in a timely manner.
 
 The project must constitute an original creation, therefore it is not possible to share parts of the code or copy contents from other sources.  
 
@@ -107,7 +96,7 @@ However, discussions between students, exchanges of ideas, use of mailing lists,
 
 The project consists of a C language program that satisfies a set of specified requirements, using the library calls that are part of the course program. The use of other calls is generally not accepted. If in doubt, ask the teacher.  
 
-The project code must correctly compile and execute in the required software environment (compiler version, kernel version, clib version).
+The project code must correctly compile and execute in the required software environment.
 
 The final grade will be based on the quality of the code, the completeness and clarity of the documentation, and the oral discussion of the project.
 
