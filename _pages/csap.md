@@ -10,7 +10,7 @@ author_profile: false
 
 ## NEWS
 
-- **Dec. 2nd will be the last class for AA2025-2026.**
+- **Dec. 3rd will be the last class for AA2025-2026.**
 
 - The project for the I and II exam sessions (January–February) has been published. Please refer to the information posted in the Google Group.
 
