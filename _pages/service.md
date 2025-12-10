@@ -21,8 +21,8 @@ author_profile: true
 ## Journal (Roles) ##
 
 ### Editorial Board ###
-- IACR Communications in Cryptology, Second Volume, 2025
 - IACR Communications in Cryptology, Third Volume, 2026
+- IACR Communications in Cryptology, Second Volume, 2025
 
 ### Consulting Associate Editor ###
 - IEEE Transactions on Information Forensics and Security (TIFS)

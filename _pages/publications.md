@@ -27,8 +27,9 @@ Danilo Francati, Yevin Nikhel Goonatilake, Shubham Pawar, Daniele Venturi, and G
 
 17. **Taming Adaptive Security and New Access Structures in Evolving Secret Sharing**\
 Danilo Francati, Sara Giammusso, and Daniele Venturi\
-Advances in Cryptology–ASIACRYPT 2025: International Conference on the Theory and Application of Cryptology and Information Security.\
-To Appear.
+Advances in Cryptology–ASIACRYPT 2025: International Conference on the Theory and Application of Cryptology and Information Security, Melbourne, VIC, Australia, December 8–12, 2025. Proceedings (pp. 67-98), Springer Nature Singapore, 2025. ISBN:978-981-95-5125-5
+.\
+[Link](https://link.springer.com/chapter/10.1007/978-981-95-5125-5_3)
 
 
 16. **Registered Matchmaking Encryption**\
