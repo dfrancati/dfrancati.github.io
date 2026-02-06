@@ -12,9 +12,9 @@ author_profile: true
 - USENIX 2025, 2026
 - WWW 2025
 - ACNS 2025
-- DLT 2023, 2024, 2025
-- FCiR 2025
-- CIFRIS 2023, 2024
+- DLT 2023, 2024, 2025, 2026
+<!-- - FCiR 2025 -->
+<!-- - CIFRIS 2023, 2024 -->
 
 ---
 
