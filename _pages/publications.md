@@ -21,13 +21,13 @@ b. **The Coding Limit of Robust Watermarking for Generative Models**\
 Danilo Francati, Yevin Nikhel Goonatilake, Shubham Pawar, Daniele Venturi, and Giuseppe Ateniese\
 [Link](https://eprint.iacr.org/2025/1620)
 
+c. **Beyond the Linear Barrier: Secret Sharing for Evolving (Weighted) Threshold Access Structures with Poly-logarithmic Share Size**\
+Danilo Francati, Sara Giammusso, and Daniele Venturi\
+To Appear.\
+
 ---
 
 ## Conference Proceedings
-
-18. **Beyond the Linear Barrier: Secret Sharing for Evolving (Weighted) Threshold Access Structures with Poly-logarithmic Share Size**\
-Danilo Francati, Sara Giammusso, and Daniele Venturi\
-To Appear.\
 
 17. **Taming Adaptive Security and New Access Structures in Evolving Secret Sharing**\
 Danilo Francati, Sara Giammusso, and Daniele Venturi\
