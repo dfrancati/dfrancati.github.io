@@ -23,7 +23,7 @@ Danilo Francati, Yevin Nikhel Goonatilake, Shubham Pawar, Daniele Venturi, and G
 
 c. **Beyond the Linear Barrier: Secret Sharing for Evolving (Weighted) Threshold Access Structures with Poly-logarithmic Share Size**\
 Danilo Francati, Sara Giammusso, and Daniele Venturi\
-To Appear.\
+[Link](https://eprint.iacr.org/2026/267) 
 
 ---
 
