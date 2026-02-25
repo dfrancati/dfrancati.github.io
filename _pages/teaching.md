@@ -13,7 +13,7 @@ author_profile: true
 
 - Informatica Generale (co-taught with Erasmo Tani) -- Bachelor's degree program in Math, Sapienza University of Rome
 
-- Metodologie di Programmazione (Laboratory) -- Bachelor's degree program in Computer Science, iSapienza University of Rome
+- Metodologie di Programmazione (Laboratory) -- Bachelor's degree program in Computer Science, Sapienza University of Rome
 
 - Algorithms (co-taught with Flavio Chierichetti) -- Bachelor's degree program in Applied Computer Science and Artificial Intelligence, Sapienza University of Rome
 
