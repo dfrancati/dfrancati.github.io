@@ -9,10 +9,13 @@ author_profile: true
 
 ## Academic Year 2025-2026
 
-- [Computer System and Programming]({{ base_path }}/teaching/csap) -- Sapienza University of Rome
-<!-- - [Informatica Generale]({{ base_path }}/teaching/informatica-generale) -- Sapienza University of Rome -->
-- Informatica Generale (Esercitatore) -- Sapienza University of Rome
-- Metodologie di Programmazione (Lab) -- Sapienza University of Rome
+- [Computer System and Programming]({{ base_path }}/teaching/csap) -- Master's degree program in Cybersecurity, Sapienza University of Rome
+
+- Informatica Generale (co-taught with Erasmo Tani) -- Bachelor's degree program in Math, Sapienza University of Rome
+
+- Metodologie di Programmazione (Laboratory) -- Bachelor's degree program in Computer Science, iSapienza University of Rome
+
+- Algorithms (co-taught with Flavio Chierichetti) -- Bachelor's degree program in Applied Computer Science and Artificial Intelligence, Sapienza University of Rome
 
 ## Academic Year 2024-2025
 
