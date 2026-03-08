@@ -17,17 +17,18 @@ a. **On the Power of Polynomial Preprocessing: Proving Computations in Sublinear
 Matteo Campanelli, Mario Carrillo, Ignacio Cascudo, Dario Fiore, Danilo Francati, and Rosario Gennaro\
 [Link](https://eprint.iacr.org/2025/238)
 
-b. **The Coding Limit of Robust Watermarking for Generative Models**\
-Danilo Francati, Yevin Nikhel Goonatilake, Shubham Pawar, Daniele Venturi, and Giuseppe Ateniese\
-[Link](https://eprint.iacr.org/2025/1620)
-
-c. **Beyond the Linear Barrier: Secret Sharing for Evolving (Weighted) Threshold Access Structures with Poly-logarithmic Share Size**\
+b. **Beyond the Linear Barrier: Secret Sharing for Evolving (Weighted) Threshold Access Structures with Poly-logarithmic Share Size**\
 Danilo Francati, Sara Giammusso, and Daniele Venturi\
 [Link](https://eprint.iacr.org/2026/267) 
 
 ---
 
 ## Conference Proceedings
+
+18. **The Coding Limit of Robust Watermarking for Generative Models**\
+Danilo Francati, Yevin Nikhel Goonatilake, Shubham Pawar, Daniele Venturi, and Giuseppe Ateniese\
+The 11th IEEE European Symposium on Security and Privacy, Lisbon, Portugal, July 6-10, 2026. To Appear.\
+[Link](https://eprint.iacr.org/2025/1620)
 
 17. **Taming Adaptive Security and New Access Structures in Evolving Secret Sharing**\
 Danilo Francati, Sara Giammusso, and Daniele Venturi\
