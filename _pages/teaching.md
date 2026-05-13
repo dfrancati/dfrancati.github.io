@@ -15,7 +15,7 @@ author_profile: true
 
 - Metodologie di Programmazione (Laboratory) -- Bachelor's degree program in Computer Science, Sapienza University of Rome
 
-- Algorithms (co-taught with Flavio Chierichetti) -- Bachelor's degree program in Applied Computer Science and Artificial Intelligence, Sapienza University of Rome
+- [Algorithms](https://sites.google.com/di.uniroma1.it/algorithms26/) (co-taught with Flavio Chierichetti) -- Bachelor's degree program in Applied Computer Science and Artificial Intelligence, Sapienza University of Rome
 
 ## Academic Year 2024-2025
 

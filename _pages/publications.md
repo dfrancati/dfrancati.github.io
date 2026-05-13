@@ -13,15 +13,11 @@ The list of authors is sorted alphabetically. Exceptions are *13*, *11*, *6*, *4
 
 ## Preprints
 
-a. **On the Power of Polynomial Preprocessing: Proving Computations in Sublinear Time, and More**\
-Matteo Campanelli, Mario Carrillo, Ignacio Cascudo, Dario Fiore, Danilo Francati, and Rosario Gennaro\
-[Link](https://eprint.iacr.org/2025/238)
-
-b. **Beyond the Linear Barrier: Secret Sharing for Evolving (Weighted) Threshold Access Structures with Poly-logarithmic Share Size**\
+a. **Beyond the Linear Barrier: Secret Sharing for Evolving (Weighted) Threshold Access Structures with Poly-logarithmic Share Size**\
 Danilo Francati, Sara Giammusso, and Daniele Venturi\
 [Link](https://eprint.iacr.org/2026/267) 
 
-c. **New Directions in Evolving Secret Sharing: Adaptive Security and More Access Structures**\
+b. **New Directions in Evolving Secret Sharing: Adaptive Security and More Access Structures**\
 Danilo Francati, Sara Giammusso, and Daniele Venturi\
 To Appear.
 
@@ -29,9 +25,14 @@ To Appear.
 
 ## Conference Proceedings
 
+19. **On the Power of Polynomial Preprocessing: Proving Computations in Sublinear Time, and More**\
+Matteo Campanelli, Mario Carrillo, Ignacio Cascudo, Dario Fiore, Danilo Francati, and Rosario Gennaro\
+The 15th International Conference on Security and Cryptography for Networks (SCN 2026), Amalfi, Italy, September 14-16, 2026. To Appear.\
+[Link](https://eprint.iacr.org/2025/238)
+
 18. **The Coding Limit of Robust Watermarking for Generative Models**\
 Danilo Francati, Yevin Nikhel Goonatilake, Shubham Pawar, Daniele Venturi, and Giuseppe Ateniese\
-The 11th IEEE European Symposium on Security and Privacy, Lisbon, Portugal, July 6-10, 2026. To Appear.\
+The 11th IEEE European Symposium on Security and Privacy (EuroS&P 2026), Lisbon, Portugal, July 6-10, 2026. To Appear.\
 [Link](https://eprint.iacr.org/2025/1620)
 
 17. **Taming Adaptive Security and New Access Structures in Evolving Secret Sharing**\

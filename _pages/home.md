@@ -28,6 +28,20 @@ I earned my Ph.D. in Computer Science in September 2021 from Stevens Institute o
 My research interests are theoretical and applied cryptography with a focus on advanced public-key primitives and their applications.
 I am also interested in watermarking schemes for generative models, privacy-preserving machine learning, and blockchain-based storage systems.
 
+
+### Short Bio ###
+<!-- 
+ENG
+Danilo Francati is an assistant professor (RTT) at the Department of Computer Science at Sapienza University of Rome, where he is a member of the SCrypto group. Previously, he was a Lecturer (Assistant Professor) in the Department of Information Security at Royal Holloway, University of London, UK. In 2021, he received his PhD in Computer Science from the Stevens Institute of Technology, NJ, under the supervision of Prof. Giuseppe Ateniese.
+
+His research interests focus on theoretical and applied cryptography, the security of machine learning models, and cryptographic solutions to enhance the reliability of generative artificial intelligence models. He has published in leading international conferences in security, cryptography, and artificial intelligence, including the IEEE Symposium on Security and Privacy (SP), ACM Conference on Computer and Communications Security (CCS), CRYPTO, EUROCRYPT, ASIACRYPT, and the International Conference on Machine Learning (ICML). -->
+
+<!-- ITA
+Danilo Francati è ricercatore tenure-track (RTT) presso il Dipartimento di Informatica della Sapienza Università di Roma, dove è membro del gruppo SCrypto. In precedenza è stato Lecturer (Assistant Professor) presso il Dipartimento di Information Security della Royal Holloway, University of London (Regno Unito). Nel 2021 ha conseguito il dottorato di ricerca in Informatica presso lo Stevens Institute of Technology (NJ), sotto la supervisione del Prof. Giuseppe Ateniese.
+
+I suoi interessi di ricerca si concentrano sulla crittografia teorica e applicata, sulla sicurezza dei modelli di machine learning e sulle soluzioni crittografiche volte a migliorare l’affidabilità dei modelli di intelligenza artificiale generativa. Ha pubblicato nelle principali conferenze internazionali nei settori della sicurezza, della crittografia e dell’intelligenza artificiale, tra cui IEEE Symposium on Security and Privacy (SP), ACM Conference on Computer and Communications Security (CCS), CRYPTO, EUROCRYPT, ASIACRYPT e International Conference on Machine Learning (ICML).
+ -->
+
 <!-- ### Grants ### -->
 
 <!-- Protocol Labs, RFP-009 on Proofs of Space and Useful Space, Principal Investigator. -->
