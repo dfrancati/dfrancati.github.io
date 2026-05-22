@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 You can also find my articles on [DBLP](https://dblp.org/pid/231/4539.html) and [Google Scholar](https://scholar.google.com/citations?user=eeuQ0a0AAAAJ&hl=en).\
-The list of authors is sorted alphabetically. Exceptions are *13*, *11*, *6*, *4*, and *3* (sorted by contribution).
+The list of authors is sorted alphabetically. Exceptions are *18*, *13*, *11*, *6*, *4*, and *3* (sorted by contribution).
 
 ---
 
@@ -19,6 +19,10 @@ Danilo Francati, Sara Giammusso, and Daniele Venturi\
 
 b. **New Directions in Evolving Secret Sharing: Adaptive Security and More Access Structures**\
 Danilo Francati, Sara Giammusso, and Daniele Venturi\
+To Appear.
+
+c. **Public-key Pseudorandom Codes from Distorted McEliece Assumptions**\
+Victor Dyseryn, Danilo Francati, and Daniele Venturi\
 To Appear.
 
 ---

@@ -29,7 +29,7 @@ My research interests are theoretical and applied cryptography with a focus on a
 I am also interested in watermarking schemes for generative models, privacy-preserving machine learning, and blockchain-based storage systems.
 
 
-### Short Bio ###
+<!-- ### Short Bio ### -->
 <!-- 
 ENG
 Danilo Francati is an assistant professor (RTT) at the Department of Computer Science at Sapienza University of Rome, where he is a member of the SCrypto group. Previously, he was a Lecturer (Assistant Professor) in the Department of Information Security at Royal Holloway, University of London, UK. In 2021, he received his PhD in Computer Science from the Stevens Institute of Technology, NJ, under the supervision of Prof. Giuseppe Ateniese.
