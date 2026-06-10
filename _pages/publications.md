@@ -23,7 +23,7 @@ To Appear.
 
 c. **Public-key Pseudorandom Codes from Distorted McEliece Assumptions**\
 Victor Dyseryn, Danilo Francati, and Daniele Venturi\
-To Appear.
+[Link](https://eprint.iacr.org/2026/1184)
 
 ---
 

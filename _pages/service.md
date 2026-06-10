@@ -8,6 +8,7 @@ author_profile: true
 
 ## Program Committees ##
 
+- EUROCRYPT 2027
 - CCS 2024, 2025, 2026
 - USENIX 2025, 2026
 - ICLR 2026 (Reviewers)
@@ -34,13 +35,11 @@ author_profile: true
 ## Reviewer ##
 
 ### Conferences (external reviewer) ####
-
-- ICLR 2026
 - CRYPTO 2019, 2022, 2025
 - EUROCRYPT 2023
 - CCS 2022 
 - USENIX 2023
-- ASIACRYPT 2024
+- ASIACRYPT 2024, 2026
 - TCC 2022
 - PKC 2020, 2024
 - SCN 2024
