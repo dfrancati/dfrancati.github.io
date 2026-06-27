@@ -11,6 +11,8 @@ author_profile: true
 - Local Organization Chair, EUROCRYPT 2026, Rome, Italy.
 - Organization Chair, ESORICS 2026, Rome, Italy.
 
+---
+
 ## Program Committees ##
 
 - EUROCRYPT 2027
