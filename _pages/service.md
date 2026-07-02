@@ -8,8 +8,8 @@ author_profile: true
 
 ## Conference Organization ##
 
-- Local Organization Chair, EUROCRYPT 2026, Rome, Italy.
-- Organization Chair, ESORICS 2026, Rome, Italy.
+- Local Organization Chair, [EUROCRYPT 2026](https://eurocrypt.iacr.org/2026/), Rome, Italy.
+- Organization Chair, [ESORICS 2026](https://sites.google.com/di.uniroma1.it/esorics2026/), Rome, Italy.
 
 ---
 
