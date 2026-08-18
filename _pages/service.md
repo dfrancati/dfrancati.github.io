@@ -39,6 +39,12 @@ author_profile: true
 
 ---
 
+## Other ##
+
+- Recipients of the USENIX Security 2026 Distinguished Reviewer Awards
+
+<!-- ---
+
 ## Reviewer ##
 
 ### Conferences (external reviewer) ####
@@ -67,7 +73,7 @@ author_profile: true
 - Journal of Systems Architecture
 - Theory of Computing Systems
 
----
+--- -->
 
 <!-- ## Other ##
 

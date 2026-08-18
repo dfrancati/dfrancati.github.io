@@ -29,6 +29,11 @@ Victor Dyseryn, Danilo Francati, and Daniele Venturi\
 
 ## Conference Proceedings
 
+20. **Public-key Pseudorandom Codes from Distorted McEliece Assumptions**\
+Victor Dyseryn, Danilo Francati, and Daniele Venturi\
+Advances in Cryptology–ASIACRYPT 2026: International Conference on the Theory and Application of Cryptology and Information Security. To Appear.\
+[Link](https://eprint.iacr.org/2026/1184)
+
 19. **On the Power of Polynomial Preprocessing: Proving Computations in Sublinear Time, and More**\
 Matteo Campanelli, Mario Carrillo, Ignacio Cascudo, Dario Fiore, Danilo Francati, and Rosario Gennaro\
 The 15th International Conference on Security and Cryptography for Networks (SCN 2026), Amalfi, Italy, September 14-16, 2026. To Appear.\
