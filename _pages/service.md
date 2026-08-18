@@ -41,7 +41,7 @@ author_profile: true
 
 ## Other ##
 
-- Recipients of the USENIX Security 2026 Distinguished Reviewer Awards
+- Recipient of the USENIX Security 2026 Distinguished Reviewer Awards
 
 <!-- ---
 
