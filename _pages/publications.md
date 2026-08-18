@@ -21,9 +21,6 @@ b. **New Directions in Evolving Secret Sharing: Adaptive Security and More Acces
 Danilo Francati, Sara Giammusso, and Daniele Venturi\
 To Appear.
 
-c. **Public-key Pseudorandom Codes from Distorted McEliece Assumptions**\
-Victor Dyseryn, Danilo Francati, and Daniele Venturi\
-[Link](https://eprint.iacr.org/2026/1184)
 
 ---
 
