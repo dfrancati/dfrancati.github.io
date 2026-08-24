@@ -17,7 +17,7 @@ author_profile: true
 
 - EUROCRYPT 2027
 - CCS 2024, 2025, 2026
-- USENIX 2025, 2026, 2027
+- USENIX 2025, 2026 (*Distinguished Reviewer Award*), 2027
 - ICLR 2026 (Reviewers)
 - Neurisp 2026 (Reviewers)
 - WWW 2025
@@ -41,7 +41,7 @@ author_profile: true
 
 ## Other ##
 
-- Recipient of the USENIX Security 2026 Distinguished Reviewer Awards
+- Recipient of the USENIX Security 2026 Distinguished Reviewer Award
 
 <!-- ---
 
