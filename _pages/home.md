@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 **Location:** Department of Computer Science, Sapienza University of Rome, Viale Regina Elena 295, 00161, Rome.\
-**Office:** Office 201, Second floor, Palazzina E\
+**Office:** Office G24, Second floor, Palazzina G\
 **Email:** francati at di.uniroma1.it\
 <a href="https://scholar.google.com/citations?user=eeuQ0a0AAAAJ&hl=en"><i class="ai ai-google-scholar ai-lg"></i> Scholar</a> - 
 <a href="https://dblp.org/pid/231/4539.html"><i class="ai ai-dblp ai-lg"></i> dblp </a> - 
