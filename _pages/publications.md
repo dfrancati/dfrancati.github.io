@@ -139,6 +139,11 @@ Annual International Cryptology Conference. Springer, Cham. 2019, pp. 701–731,
 
 ## Journals
 
+5. **New Directions in Evolving Secret Sharing: Adaptive Security and More Access Structures**\
+Danilo Francati, Sara Giammusso, and Daniele Venturi\
+Designs, Codes, and Cryptography.\
+To Appear.
+
 4. **Evolving Secret Sharing Revisited: Computational Security and Succinctness**\
 Danilo Francati and Daniele Venturi\
 Designs, Codes, and Cryptography (2025). DOI: 10.1007/s10623-025-01658-0\
