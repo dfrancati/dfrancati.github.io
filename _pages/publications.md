@@ -17,10 +17,6 @@ a. **Beyond the Linear Barrier: Secret Sharing for Evolving (Weighted) Threshold
 Danilo Francati, Sara Giammusso, and Daniele Venturi\
 [Link](https://eprint.iacr.org/2026/267) 
 
-b. **New Directions in Evolving Secret Sharing: Adaptive Security and More Access Structures**\
-Danilo Francati, Sara Giammusso, and Daniele Venturi\
-To Appear.
-
 
 ---
 
