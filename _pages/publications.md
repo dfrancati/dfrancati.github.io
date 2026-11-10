@@ -17,6 +17,9 @@ a. **Beyond the Linear Barrier: Secret Sharing for Evolving (Weighted) Threshold
 Danilo Francati, Sara Giammusso, and Daniele Venturi\
 [Link](https://eprint.iacr.org/2026/267) 
 
+b. **On the Different Flavors of Anonymity in Secret Sharing**
+Danilo Francati, Sara Giammusso, Matteo Salvino, and Daniele Venturi
+
 
 ---
 
@@ -29,19 +32,18 @@ Advances in Cryptology–ASIACRYPT 2026: International Conference on the Theory 
 
 19. **On the Power of Polynomial Preprocessing: Proving Computations in Sublinear Time, and More**\
 Matteo Campanelli, Mario Carrillo, Ignacio Cascudo, Dario Fiore, Danilo Francati, and Rosario Gennaro\
-The 15th International Conference on Security and Cryptography for Networks (SCN 2026), Amalfi, Italy, September 14-16, 2026. To Appear.\
-[Link](https://eprint.iacr.org/2025/238)
+The 15th International Conference on Security and Cryptography for Networks (SCN 2026), Amalfi, Italy, September 14-16, 2026. Proceedings (pp. 577-597), Cham: Springer Nature Switzerland, 2026. ISBN: 978-3-032-36264-3.\
+[Link](https://link.springer.com/chapter/10.1007/978-3-032-36264-3_29)
 
 18. **The Coding Limit of Robust Watermarking for Generative Models**\
 Danilo Francati, Yevin Nikhel Goonatilake, Shubham Pawar, Daniele Venturi, and Giuseppe Ateniese\
-The 11th IEEE European Symposium on Security and Privacy (EuroS&P 2026), Lisbon, Portugal, July 6-10, 2026. To Appear.\
-[Link](https://eprint.iacr.org/2025/1620)
+The 11th IEEE European Symposium on Security and Privacy (EuroS&P 2026), Lisbon, Portugal, July 6-10, 2026. Proceedings (pp. 1343-1356), IEEE, 2026. ISBN: 979-8-3195-1074-7.\
+[Link](https://ieeexplore.ieee.org/abstract/document/11624171)
 
 17. **Taming Adaptive Security and New Access Structures in Evolving Secret Sharing**\
 Danilo Francati, Sara Giammusso, and Daniele Venturi\
-Advances in Cryptology–ASIACRYPT 2025: International Conference on the Theory and Application of Cryptology and Information Security, Melbourne, VIC, Australia, December 8–12, 2025. Proceedings (pp. 67-98), Springer Nature Singapore, 2025. ISBN:978-981-95-5125-5.\
+Advances in Cryptology–ASIACRYPT 2025: International Conference on the Theory and Application of Cryptology and Information Security, Melbourne, VIC, Australia, December 8–12, 2025. Proceedings (pp. 67-98), Springer Nature Singapore, 2025. ISBN: 978-981-95-5125-5.\
 [Link](https://link.springer.com/chapter/10.1007/978-981-95-5125-5_3)
-
 
 16. **Registered Matchmaking Encryption**\
 Danilo Francati, Valeria Huang, and Daniele Venturi\
@@ -137,8 +139,8 @@ Annual International Cryptology Conference. Springer, Cham. 2019, pp. 701–731,
 
 5. **New Directions in Evolving Secret Sharing: Adaptive Security and More Access Structures**\
 Danilo Francati, Sara Giammusso, and Daniele Venturi\
-Designs, Codes, and Cryptography.\
-To Appear.
+Designs, Codes, and Cryptography (2026). DOI: 10.1007/s10623-026-01953-4\
+[Link](https://link.springer.com/article/10.1007/s10623-026-01953-4)
 
 4. **Evolving Secret Sharing Revisited: Computational Security and Succinctness**\
 Danilo Francati and Daniele Venturi\

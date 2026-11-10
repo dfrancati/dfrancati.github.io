@@ -4,6 +4,7 @@ title: "CSaP"
 permalink: /teaching/csap
 sitemap: false
 author_profile: false
+published: false
 ---
 
 # Computer Systems and Programming (2025 - 2026)

@@ -6,10 +6,18 @@ sitemap: false
 author_profile: true
 ---
 
+## Academic Year 2026-2027
+
+- Teoria degli Algoritmi -- Master's degree program in Applied Mathematics, Sapienza University of Rome
+
+- Algoritmi e Complessità (co-taught with Lorenzo Carlucci) -- Bachelor's degree program in Mathematical Sciences for Artificial Intelligence, Sapienza University of Rome
+
+- Algorithms -- Bachelor's degree program in Applied Computer Science and Artificial Intelligence, Sapienza University of Rome
 
 ## Academic Year 2025-2026
 
-- [Computer System and Programming]({{ base_path }}/teaching/csap) -- Master's degree program in Cybersecurity, Sapienza University of Rome
+<!-- - [Computer System and Programming]({{ base_path }}/teaching/csap) -- Master's degree program in Cybersecurity, Sapienza University of Rome -->
+- Computer System and Programming -- Master's degree program in Cybersecurity, Sapienza University of Rome
 
 - Informatica Generale (co-taught with Erasmo Tani) -- Bachelor's degree program in Math, Sapienza University of Rome
 
