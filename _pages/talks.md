@@ -6,6 +6,9 @@ sitemap: false
 author_profile: true
 ---
 
+- **Talk @ Télécom Paris - 7th Crypto Day**, Paris, France. November 2026.\
+*Title*: On the Impossibility of Watermarking Generative Models.
+
 - **Talk @ King's College London - UK Crypto Day**, London, UK. February 2025.\
 *Title*: Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models.
 
